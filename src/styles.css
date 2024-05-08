@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url('https://i.pinimg.com/originals/df/51/56/df51560cfc772933996e2c99317e11e1.jpg');
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow-x: hidden;
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
